@@ -28,7 +28,7 @@ function Navbar() {
 
         <div className="flex flex-col items-center w-full gap-4 px-4 md:flex-row md:items-center md:justify-center md:gap-6">
 
-            <img src="/src/assets/logo.png" width={160} alt="AHSIN" />
+            <img src="/logo.png" width={160} alt="MAHSIN" />
 
           <div>
             <input
