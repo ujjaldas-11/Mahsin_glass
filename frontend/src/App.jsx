@@ -1,19 +1,13 @@
-import { useEffect, useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
-import Navbar from './components/Navbar/Navbar'
+import React from 'react';
+import Navbar from './components/Navbar/Navbar';
 
 
 function App() {
-
-
-
   return (
-    <>
-      <Navbar/>
-    
-    </>
-  )
+    <div className="relative min-h-screen">
+      <Navbar />
+    </div>
+  );
 }
 
-export default App
+export default App;
