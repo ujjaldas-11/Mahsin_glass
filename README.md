@@ -1,6 +1,9 @@
-# Ahsin Tempered Glass — Frontend
+# Mahsin Tempered Glass — Frontend
 
 Small React frontend for browsing tempered glass products and models. Uses a local data.json file for product/groups and provides search and details UI.
+
+# For live preview 
+https://m-ahsin-glass.vercel.app/
 
 ## Features
 - Responsive gallery/grid layout (Tailwind CSS)
